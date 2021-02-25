@@ -1,0 +1,13 @@
+C:\Users\djnov\source\repos\workingPOS\bin\Debug\netcoreapp3.1\workingPOS.exe
+C:\Users\djnov\source\repos\workingPOS\bin\Debug\netcoreapp3.1\workingPOS.deps.json
+C:\Users\djnov\source\repos\workingPOS\bin\Debug\netcoreapp3.1\workingPOS.runtimeconfig.json
+C:\Users\djnov\source\repos\workingPOS\bin\Debug\netcoreapp3.1\workingPOS.runtimeconfig.dev.json
+C:\Users\djnov\source\repos\workingPOS\bin\Debug\netcoreapp3.1\workingPOS.dll
+C:\Users\djnov\source\repos\workingPOS\bin\Debug\netcoreapp3.1\workingPOS.pdb
+C:\Users\djnov\source\repos\workingPOS\obj\Debug\netcoreapp3.1\workingPOS.csprojAssemblyReference.cache
+C:\Users\djnov\source\repos\workingPOS\obj\Debug\netcoreapp3.1\workingPOS.AssemblyInfoInputs.cache
+C:\Users\djnov\source\repos\workingPOS\obj\Debug\netcoreapp3.1\workingPOS.AssemblyInfo.cs
+C:\Users\djnov\source\repos\workingPOS\obj\Debug\netcoreapp3.1\workingPOS.csproj.CoreCompileInputs.cache
+C:\Users\djnov\source\repos\workingPOS\obj\Debug\netcoreapp3.1\workingPOS.dll
+C:\Users\djnov\source\repos\workingPOS\obj\Debug\netcoreapp3.1\workingPOS.pdb
+C:\Users\djnov\source\repos\workingPOS\obj\Debug\netcoreapp3.1\workingPOS.genruntimeconfig.cache
